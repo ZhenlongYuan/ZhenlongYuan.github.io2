@@ -10,6 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🧑‍🎨 About Me 
 I'm currently pursuing toward the Ph.D. degree in the [Institute of Computing Technology, Chinese Academy of Sciences](https://www.ict.ac.cn/)(中国科学院计算技术研究所), advised by Zhaoqi Wang(王兆其). I also collaborate with Zhaoxin Li (李兆歆)
 
 My research interest includes 3D computer vision (3DCV), medical image and vision-language model (VLM).
