@@ -21,6 +21,7 @@ I'm currently pursuing toward the Ph.D. degree in the [Institute of Computing Te
 
 You can find my CV here: [Zhenlong Yuan's Curriculum Vitae](../assets/CV_ZhenlongYuan.pdf)
 
+[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/ZhenlongYuan) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
