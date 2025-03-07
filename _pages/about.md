@@ -28,7 +28,9 @@ Github: [https://github.com/ZhenlongYuan](https://github.com/ZhenlongYuan)
 Wechat: [YZL2000224](../images/Wechat.png) 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Four of my papers get accepted by AAAI2025. 
+- *2024.12*: &nbsp;🎉🎉 Four of my papers got accepted by AAAI2025!!
+- *2024.5*: &nbsp;🎉🎉 One of my papers got accepted by Pattern Recpgnition!!
+- *2023.12*: &nbsp;🎉🎉 Four of my papers got accepted by AAAI2024!!
 
 # 📝 Publications 
 
