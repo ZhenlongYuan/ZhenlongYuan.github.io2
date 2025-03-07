@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhenlong Yuan received the B.Sc. degree in telecommunications engineering with management from Beijing University of Posts and Telecommunications, Beijing, China. He is working toward the Ph.D. degree in the Institute of Computing Technology, Chinese Academy of Sciences and University of Chinese Academy of Sciences.
+I'm currently pursuing toward the Ph.D. degree in the <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><strong> Institute of Computing Technology, Chinese Academy of Sciences </strong></a>. My research interest includes 3D computer vision, medical image and vision-language model.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+You can find my CV here: <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><strong> Zhenlong Yuan's Curriculum Vitae </strong></a>
 
 
 # 🔥 News
