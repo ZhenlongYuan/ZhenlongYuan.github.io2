@@ -31,6 +31,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.jp/citations?user=zii-mcAAAAAJ&hl=zh-CN"
+  resume     : "../assets/CV_ZhenlongYuan.pdf"
   email            : "yuanzhenlong21b@ict.ac.cn"
   researchgate     : 
   uri              :
@@ -60,7 +61,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  resume     : "../assets/CV_ZhenlongYuan.pdf"
 
 # Reading Files
 include:
