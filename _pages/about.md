@@ -17,8 +17,6 @@ My research interest includes 3D computer vision (3DCV), medical image and visio
 I have published 10+ papers at the top international AI conferences such as AAAI, Pattern Recognition.
 If you are seeking any form of **academic cooperation**, please feel free to email me at [yuanzhenlong21b@ict.ac.cn](mailto:yuanzhenlong21b@ict.ac.cn)
 
-You can find my CV here: [Zhenlong Yuan's Curriculum Vitae](../assets/CV_ZhenlongYuan.pdf)
-
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Four papers are accepted by AAAI2025!!
 - *2024.5*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition!!
