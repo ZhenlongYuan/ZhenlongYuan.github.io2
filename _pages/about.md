@@ -36,9 +36,8 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 # 🎖 Honors and Awards
 - *2024.12* Lenovo Enterprise Scholarship (Top 1%)
-- *2024.10* First Scholarship (Top 5%)
-- *2023.10* First Scholarship (Top 5%)
-- *2022.10* First Scholarship (Top 5%)
+- *2022.10-2024.10* Three Times First Class Scholarship in ICT (Top 5%)
+- *2022.05-2024.05* Three Times Outstanding Student Awards in UCAS
 
 # 📖 Educations
 - *2021.09 - present*, Ph.D student, Institute of Computing Technology, Chinese Academy of Sciences, Beijing.
