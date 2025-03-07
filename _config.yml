@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "Zhenlong Yuan (袁祯泷)"
 title_separator          : "-"
-name                     : "Yi Ren (袁祯泷)"
+name                     : "Zhenlong Yuan (袁祯泷)"
 description              : "Master's student at ICT, UCAS. Focusing on 3DCV and VLM."
 repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
@@ -26,7 +26,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Zhenlong Yuan (任意)"
   avatar           : "images/ZhenlongYuan.png"
-  bio              : "Institute of Computing Technology, Chinese Academy of Sciences"
+  bio              : # "Institute of Computing Technology, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -46,7 +46,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
+  linkedin         : "ZhenlongYuan"
   dblp             : "https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
