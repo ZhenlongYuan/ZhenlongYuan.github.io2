@@ -18,6 +18,7 @@ I have published 10+ papers at the top international AI conferences such as AAAI
 If you are seeking any form of **academic cooperation**, please feel free to email me at [yuanzhenlong21b@ict.ac.cn](mailto:yuanzhenlong21b@ict.ac.cn)
 
 # 🔥 News
+- *2025.2*: &nbsp;🎉🎉 Four papers are accepted by HCII2025!!
 - *2024.12*: &nbsp;🎉🎉 Four papers are accepted by AAAI2025!!
 - *2024.5*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition!!
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2024!!
