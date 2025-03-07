@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently pursuing toward the Ph.D. degree in the <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><strong> Institute of Computing Technology, Chinese Academy of Sciences </strong></a>. My research interest includes 3D computer vision, medical image and vision-language model.
+I'm currently pursuing toward the Ph.D. degree in the [Institute of Computing Technology, Chinese Academy of Sciences](https://www.ict.ac.cn/). My research interest includes 3D computer vision (3DCV), medical image and vision-language model (VLM).
 
-You can find my CV here: <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><strong> Zhenlong Yuan's Curriculum Vitae </strong></a>
+You can find my CV here: [Zhenlong Yuan's Curriculum Vitae](../assets/CV_ZhenlongYuan.pdf)
 
 
 # 🔥 News
