@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎨 About Me 
-I'm currently pursuing toward the Ph.D. degree in the [Institute of Computing Technology(ICT), Chinese Academy of Sciences(UCAS)](https://www.ict.ac.cn/)(中国科学院计算技术研究所), advised by Zhaoqi Wang(王兆其). 
+I'm currently pursuing toward the Ph.D. degree in the [Institute of Computing Technology (ICT), Chinese Academy of Sciences (UCAS)](https://www.ict.ac.cn/) (中国科学院计算技术研究所), advised by Zhaoqi Wang (王兆其). 
 
 My research interest includes 3D computer vision (3DCV), medical image and vision-language model (VLM). 
 I have published 10+ papers at the top international AI conferences such as AAAI, Pattern Recognition.
