@@ -41,5 +41,5 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 - *2022.10* First Scholarship (Top 5%)
 
 # 📖 Educations
-- *2021.09 - 2025.03 (now)*, Ph.D student, Institute of Computing Technology, Chinese Academy of Sciences, Beijing.
+- *2021.09 - present*, Ph.D student, Institute of Computing Technology, Chinese Academy of Sciences, Beijing.
 - *2017.09 - 2021.06*, Undergraduate, Beijing University of Posts and Telecommunications , Beijing.
