@@ -32,7 +32,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.co.jp/citations?user=zii-mcAAAAAJ&hl=zh-CN"
   email            : "yuanzhenlong21b@ict.ac.cn"
-  researchgate     : "../assets/CV_ZhenlongYuan.pdf"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -60,7 +60,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  resume     : "../assets/CV_ZhenlongYuan.pdf"
 
 # Reading Files
 include:
