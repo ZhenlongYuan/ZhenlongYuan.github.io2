@@ -17,9 +17,9 @@ My research interest includes 3D computer vision (3DCV), medical image and visio
 You can find my CV here: [Zhenlong Yuan's Curriculum Vitae](../assets/CV_ZhenlongYuan.pdf)
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Four of my papers got accepted by AAAI2025!!
-- *2024.5*: &nbsp;🎉🎉 One of my papers got accepted by Pattern Recognition!!
-- *2023.12*: &nbsp;🎉🎉 Four of my papers got accepted by AAAI2024!!
+- *2024.12*: &nbsp;🎉🎉 Four papers are accepted by AAAI2025!!
+- *2024.5*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition!!
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2024!!
 
 
 # 📝 Publications 
@@ -27,6 +27,9 @@ You can find my CV here: [Zhenlong Yuan's Curriculum Vitae](../assets/CV_Zhenlon
 - [TSAR-MVS: Textureless-aware Segmentation and Correlative Refinement Guided Multi-View Stereo](https://arxiv.org/abs/2308.09990), **Zhenlong Yuan**, Jiakai Cao, Zhaoqi Wang and Zhaoxin Li, **Pattern Recognition 2024**
 - [MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo](https://arxiv.org/abs/2407.19323), **Zhenlong Yuan**, Cong Liu, Fei Shen, Zhaoxin Li, Jingguo luo, Tianlu Mao and Zhaoqi Wang, **AAAI 2025**
 - [DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2412.11578), **Zhenlong Yuan**, Jingguo luo, Fei Shen, Zhaoxin Li, Cong Liu, Tianlu Mao and Zhaoqi Wang, **AAAI 2025**
+- [NeRF-based Polarimetric Multi-view Stereo](https://scholar.google.co.jp/citations?view_op=view_citation&hl=zh-CN&user=zii-mcAAAAAJ&citation_for_view=zii-mcAAAAAJ:IjCSPb-OGe4C), Jiakai Cao, **Zhenlong Yuan**, Tianlu Mao, Zhaoqi Wang, Zhaoxin Li, **Pattern Recognition 2024**
+- [Dual-Level Precision Edges Guided Multi-View Stereo with Accurate Planarization](https://scholar.google.co.jp/citations?view_op=view_citation&hl=zh-CN&user=zii-mcAAAAAJ&citation_for_view=zii-mcAAAAAJ:YsMSGLbcyi4C), Kehua Chen, **Zhenlong Yuan**, Tianlu Mao, Zhaoqi Wang, **AAAI 2025**
+- [MapExpert: Online HD Map Construction with Simple and Efficient Sparse Map Element Expert](https://scholar.google.co.jp/citations?view_op=view_citation&hl=zh-CN&user=zii-mcAAAAAJ&citation_for_view=zii-mcAAAAAJ:W7OEmFMy1HYC), Dapeng Zhang, Dayu Chen, Peng Zhi, Yinda Chen, **Zhenlong Yuan**, Chenyang Li, Rui Zhou, Qingguo Zhou, **AAAI 2025**
 
 # 🎖 Honors and Awards
 - *2021.10* Tencent Scholarship (Top 1%)
